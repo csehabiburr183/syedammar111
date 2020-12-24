@@ -12,9 +12,10 @@
 
 - 💻 &nbsp;
   ABAP, Vba, C#, Python
-- 🌐 &nbsp; HTML5, CSS, Bootstrap, JavaScript, Node.js, React, Wordpress, Woocommmerce, Shopify
+- 🌐 &nbsp; HTML5, CSS, Bootstrap, JavaScript, Node.js, React
+- 💳 &nbsp;  Wordpress, Woocommmerce, Shopify
 - 🛢 &nbsp;
-  MySQL, MongoDB
+  MySQL, MongoDB, SQL server
 - ⚙️ &nbsp;
   Git, Github
 - 🔧 &nbsp;
