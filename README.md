@@ -5,8 +5,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Msc Business Informatics- University of Mannheim, Bsc Computer Science- National University of Computer & Emerging Sciences.
 - 💼 &nbsp; SunExpress-Lufthansa, SAP, University of Mannheim, Touchstone Communications.
-- 🌱 &nbsp; Learning more about web development, IT automation scripts and data science.
-- ✍️ &nbsp; Gardening, Traveling, Fragrances as hobbies.
+- 💭 &nbsp; Learning more about web development, IT automation scripts and data science.
+- 🍭 &nbsp; Gardening, Traveling, Fragrances as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -20,7 +20,7 @@
   Git, Github
 - 🔧 &nbsp;
  Visual Studio Code, Atom, Anaconda
-- 🖥 &nbsp;
+- 🎨 &nbsp;
  Photoshop, Figma, XD
 
 <br/>
