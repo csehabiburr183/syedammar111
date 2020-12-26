@@ -10,8 +10,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ABAP, Vba, C#, Python
+- 💻 &nbsp; C#, Python
 - 🌐 &nbsp; HTML5, CSS, Bootstrap, JavaScript, Node.js, React
 - 💳 &nbsp;  Wordpress, Woocommmerce, Shopify
 - 🛢 &nbsp;
