@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies to develop software solutions & quick hacks.
 - 🎓 &nbsp; Msc Business Informatics-University of Mannheim, Bsc Computer Science-National University of Computer & Emerging Sciences.
-- 💼 &nbsp; SunExpress-Lufthansa, SAP, University of Mannheim, Touchstone Communications.
-- 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
-- 🍭 &nbsp; Gardening, working out and fragrances as hobbies.
+- 💼 &nbsp; Worked at PMD, SunExpress-Lufthansa, SAP, University of Mannheim, Touchstone Communications.
+- 💭 &nbsp; Diving deeper into the realm of web development, devops, cloud computing & IT automation scripts.
+- 🍭 &nbsp; Gardening, working out, stocks/crypto trading as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
